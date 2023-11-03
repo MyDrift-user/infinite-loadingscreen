@@ -4,8 +4,8 @@
 // @description  Adds infinite Loadingscreen to almost every Website
 // @author       MyDrift (https://github.com/MyDrift-user/)
 // @match        https://*/*
-// @downloadURL  https://github.com/MyDrift-user/EditColumnContent/edit/main/Moodle-Header-Addons.js
-// @updateURL    https://github.com/MyDrift-user/EditColumnContent/edit/main/Moodle-Header-Addons.js
+// @downloadURL  https://github.com/MyDrift-user/infinite-loadingscreen/edit/main/infinite-loading.js
+// @updateURL    https://github.com/MyDrift-user/infinite-loadingscreen/edit/main/infinite-loading.js
 // @grant        GM_addStyle
 // ==/UserScript==
 
